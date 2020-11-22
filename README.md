@@ -1,2 +1,2 @@
 # Image-Processing
-Basic image processing techniques through Python Opencv.  
+Image processing through OpenCv,Numpy,matplotlib with Python3
